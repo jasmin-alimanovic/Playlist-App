@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+@import "@angular/material/prebuilt-themes/deeppurple-amber.css";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+.cover,
+.pjesme {
+  height: 100%;
+}
+body {
+  background-image: url("./assets/background-313415.jpg");
+}
+.cover {
+  background: transparent;
+  color: #fff;
+}
