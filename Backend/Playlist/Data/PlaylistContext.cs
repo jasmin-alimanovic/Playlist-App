@@ -50,7 +50,7 @@ namespace Playlist.Data
                 },
                 new Pjesma
                 {
-                    Id = 1,
+                    Id = 2,
                     Naziv = "99",
                     JeLiFavorit = false,
                     DatumUnosa = DateTime.Now,
